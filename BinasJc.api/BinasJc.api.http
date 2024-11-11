@@ -1,0 +1,6 @@
+@BinasJc.api_HostAddress = http://localhost:5276
+
+GET {{BinasJc.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

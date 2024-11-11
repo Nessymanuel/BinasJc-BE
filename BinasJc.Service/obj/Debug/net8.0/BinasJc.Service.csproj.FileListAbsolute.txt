@@ -1,0 +1,11 @@
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.Service\bin\Debug\net8.0\BinasJc.Service.deps.json
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.Service\bin\Debug\net8.0\BinasJc.Service.dll
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.Service\bin\Debug\net8.0\BinasJc.Service.pdb
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.Service\obj\Debug\net8.0\BinasJc.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.Service\obj\Debug\net8.0\BinasJc.Service.AssemblyInfoInputs.cache
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.Service\obj\Debug\net8.0\BinasJc.Service.AssemblyInfo.cs
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.Service\obj\Debug\net8.0\BinasJc.Service.csproj.CoreCompileInputs.cache
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.Service\obj\Debug\net8.0\BinasJc.Service.dll
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.Service\obj\Debug\net8.0\refint\BinasJc.Service.dll
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.Service\obj\Debug\net8.0\BinasJc.Service.pdb
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.Service\obj\Debug\net8.0\ref\BinasJc.Service.dll

@@ -1,0 +1,17 @@
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DAL\bin\Debug\net8.0\BinasJc.DAL.deps.json
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DAL\bin\Debug\net8.0\BinasJc.DAL.runtimeconfig.json
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DAL\bin\Debug\net8.0\BinasJc.DAL.dll
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DAL\bin\Debug\net8.0\BinasJc.DAL.pdb
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DAL\bin\Debug\net8.0\BinasJc.Model.dll
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DAL\bin\Debug\net8.0\BinasJc.Model.pdb
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DAL\obj\Debug\net8.0\BinasJc.DAL.csproj.AssemblyReference.cache
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DAL\obj\Debug\net8.0\BinasJc.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DAL\obj\Debug\net8.0\BinasJc.DAL.AssemblyInfoInputs.cache
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DAL\obj\Debug\net8.0\BinasJc.DAL.AssemblyInfo.cs
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DAL\obj\Debug\net8.0\BinasJc.DAL.csproj.CoreCompileInputs.cache
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DAL\obj\Debug\net8.0\BinasJc..D45074DF.Up2Date
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DAL\obj\Debug\net8.0\BinasJc.DAL.dll
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DAL\obj\Debug\net8.0\refint\BinasJc.DAL.dll
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DAL\obj\Debug\net8.0\BinasJc.DAL.pdb
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DAL\obj\Debug\net8.0\BinasJc.DAL.genruntimeconfig.cache
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DAL\obj\Debug\net8.0\ref\BinasJc.DAL.dll

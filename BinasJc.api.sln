@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinasJc.api", "BinasJc.api\BinasJc.api.csproj", "{E59CD13B-499C-412A-BE2C-BDB8DEBA6E16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinasJc.DAL", "BinasJc.DAL\BinasJc.DAL.csproj", "{8A977F0A-57DE-4EDA-990F-2DCA8C9A385D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinasJc.Service", "BinasJc.Service\BinasJc.Service.csproj", "{DE67F0A5-8C56-4580-87CD-EEE2C5B211A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinasJc.Shared", "BinasJc.Shared\BinasJc.Shared.csproj", "{6146291A-4B7F-4E8E-8284-D1FAAA93F2FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinasJc.DTOs", "BinasJc.DTOs\BinasJc.DTOs.csproj", "{3DC67B3B-2AE4-4750-BA32-7B71DC9E725C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinasJc.Model", "BinasJc.Model\BinasJc.Model.csproj", "{8289E039-69F0-4DA3-8909-CFB1564DEFE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E59CD13B-499C-412A-BE2C-BDB8DEBA6E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E59CD13B-499C-412A-BE2C-BDB8DEBA6E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E59CD13B-499C-412A-BE2C-BDB8DEBA6E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E59CD13B-499C-412A-BE2C-BDB8DEBA6E16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A977F0A-57DE-4EDA-990F-2DCA8C9A385D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A977F0A-57DE-4EDA-990F-2DCA8C9A385D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A977F0A-57DE-4EDA-990F-2DCA8C9A385D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A977F0A-57DE-4EDA-990F-2DCA8C9A385D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE67F0A5-8C56-4580-87CD-EEE2C5B211A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE67F0A5-8C56-4580-87CD-EEE2C5B211A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE67F0A5-8C56-4580-87CD-EEE2C5B211A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE67F0A5-8C56-4580-87CD-EEE2C5B211A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6146291A-4B7F-4E8E-8284-D1FAAA93F2FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6146291A-4B7F-4E8E-8284-D1FAAA93F2FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6146291A-4B7F-4E8E-8284-D1FAAA93F2FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6146291A-4B7F-4E8E-8284-D1FAAA93F2FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC67B3B-2AE4-4750-BA32-7B71DC9E725C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC67B3B-2AE4-4750-BA32-7B71DC9E725C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC67B3B-2AE4-4750-BA32-7B71DC9E725C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC67B3B-2AE4-4750-BA32-7B71DC9E725C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8289E039-69F0-4DA3-8909-CFB1564DEFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8289E039-69F0-4DA3-8909-CFB1564DEFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8289E039-69F0-4DA3-8909-CFB1564DEFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8289E039-69F0-4DA3-8909-CFB1564DEFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4116DA8B-1A56-481E-821F-5DCEB6B2EAA4}
+	EndGlobalSection
+EndGlobal

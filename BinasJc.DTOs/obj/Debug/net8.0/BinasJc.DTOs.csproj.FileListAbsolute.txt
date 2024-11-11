@@ -1,0 +1,11 @@
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DTOs\bin\Debug\net8.0\BinasJc.DTOs.deps.json
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DTOs\bin\Debug\net8.0\BinasJc.DTOs.dll
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DTOs\bin\Debug\net8.0\BinasJc.DTOs.pdb
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DTOs\obj\Debug\net8.0\BinasJc.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DTOs\obj\Debug\net8.0\BinasJc.DTOs.AssemblyInfoInputs.cache
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DTOs\obj\Debug\net8.0\BinasJc.DTOs.AssemblyInfo.cs
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DTOs\obj\Debug\net8.0\BinasJc.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DTOs\obj\Debug\net8.0\BinasJc.DTOs.dll
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DTOs\obj\Debug\net8.0\refint\BinasJc.DTOs.dll
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DTOs\obj\Debug\net8.0\BinasJc.DTOs.pdb
+C:\Users\graci\source\repos\BinasJc.api\BinasJc.DTOs\obj\Debug\net8.0\ref\BinasJc.DTOs.dll

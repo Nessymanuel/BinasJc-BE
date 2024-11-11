@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E59CD13B-499C-412A-BE2C-BDB8DEBA6E16}|BinasJc.api\\BinasJc.api.csproj|c:\\users\\graci\\source\\repos\\binasjc.api\\binasjc.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59CD13B-499C-412A-BE2C-BDB8DEBA6E16}|BinasJc.api\\BinasJc.api.csproj|solutionrelative:binasjc.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8289E039-69F0-4DA3-8909-CFB1564DEFE1}|BinasJc.Model\\BinasJc.Model.csproj|c:\\users\\graci\\source\\repos\\binasjc.api\\binasjc.model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8289E039-69F0-4DA3-8909-CFB1564DEFE1}|BinasJc.Model\\BinasJc.Model.csproj|solutionrelative:binasjc.model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59CD13B-499C-412A-BE2C-BDB8DEBA6E16}|BinasJc.api\\BinasJc.api.csproj|c:\\users\\graci\\source\\repos\\binasjc.api\\binasjc.api\\controllers\\mensagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59CD13B-499C-412A-BE2C-BDB8DEBA6E16}|BinasJc.api\\BinasJc.api.csproj|solutionrelative:binasjc.api\\controllers\\mensagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A977F0A-57DE-4EDA-990F-2DCA8C9A385D}|BinasJc.DAL\\BinasJc.DAL.csproj|c:\\users\\graci\\source\\repos\\binasjc.api\\binasjc.dal\\migrations\\20241111133211_tabelamensagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A977F0A-57DE-4EDA-990F-2DCA8C9A385D}|BinasJc.DAL\\BinasJc.DAL.csproj|solutionrelative:binasjc.dal\\migrations\\20241111133211_tabelamensagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A977F0A-57DE-4EDA-990F-2DCA8C9A385D}|BinasJc.DAL\\BinasJc.DAL.csproj|c:\\users\\graci\\source\\repos\\binasjc.api\\binasjc.dal\\context\\binasjccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A977F0A-57DE-4EDA-990F-2DCA8C9A385D}|BinasJc.DAL\\BinasJc.DAL.csproj|solutionrelative:binasjc.dal\\context\\binasjccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59CD13B-499C-412A-BE2C-BDB8DEBA6E16}|BinasJc.api\\BinasJc.api.csproj|c:\\users\\graci\\source\\repos\\binasjc.api\\binasjc.api\\binasjc.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E59CD13B-499C-412A-BE2C-BDB8DEBA6E16}|BinasJc.api\\BinasJc.api.csproj|solutionrelative:binasjc.api\\binasjc.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59CD13B-499C-412A-BE2C-BDB8DEBA6E16}|BinasJc.api\\BinasJc.api.csproj|c:\\users\\graci\\source\\repos\\binasjc.api\\binasjc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59CD13B-499C-412A-BE2C-BDB8DEBA6E16}|BinasJc.api\\BinasJc.api.csproj|solutionrelative:binasjc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8289E039-69F0-4DA3-8909-CFB1564DEFE1}|BinasJc.Model\\BinasJc.Model.csproj|c:\\users\\graci\\source\\repos\\binasjc.api\\binasjc.model\\mensagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8289E039-69F0-4DA3-8909-CFB1564DEFE1}|BinasJc.Model\\BinasJc.Model.csproj|solutionrelative:binasjc.model\\mensagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59CD13B-499C-412A-BE2C-BDB8DEBA6E16}|BinasJc.api\\BinasJc.api.csproj|c:\\users\\graci\\source\\repos\\binasjc.api\\binasjc.api\\controllers\\pontocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59CD13B-499C-412A-BE2C-BDB8DEBA6E16}|BinasJc.api\\BinasJc.api.csproj|solutionrelative:binasjc.api\\controllers\\pontocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59CD13B-499C-412A-BE2C-BDB8DEBA6E16}|BinasJc.api\\BinasJc.api.csproj|c:\\users\\graci\\source\\repos\\binasjc.api\\binasjc.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59CD13B-499C-412A-BE2C-BDB8DEBA6E16}|BinasJc.api\\BinasJc.api.csproj|solutionrelative:binasjc.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59CD13B-499C-412A-BE2C-BDB8DEBA6E16}|BinasJc.api\\BinasJc.api.csproj|c:\\users\\graci\\source\\repos\\binasjc.api\\binasjc.api\\controllers\\bicicletacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59CD13B-499C-412A-BE2C-BDB8DEBA6E16}|BinasJc.api\\BinasJc.api.csproj|solutionrelative:binasjc.api\\controllers\\bicicletacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59CD13B-499C-412A-BE2C-BDB8DEBA6E16}|BinasJc.api\\BinasJc.api.csproj|c:\\users\\graci\\source\\repos\\binasjc.api\\binasjc.api\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59CD13B-499C-412A-BE2C-BDB8DEBA6E16}|BinasJc.api\\BinasJc.api.csproj|solutionrelative:binasjc.api\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59CD13B-499C-412A-BE2C-BDB8DEBA6E16}|BinasJc.api\\BinasJc.api.csproj|c:\\users\\graci\\source\\repos\\binasjc.api\\binasjc.api\\controllers\\stationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59CD13B-499C-412A-BE2C-BDB8DEBA6E16}|BinasJc.api\\BinasJc.api.csproj|solutionrelative:binasjc.api\\controllers\\stationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MensagemController.cs",
+              "DocumentMoniker": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.api\\Controllers\\MensagemController.cs",
+              "RelativeDocumentMoniker": "BinasJc.api\\Controllers\\MensagemController.cs",
+              "ToolTip": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.api\\Controllers\\MensagemController.cs",
+              "RelativeToolTip": "BinasJc.api\\Controllers\\MensagemController.cs",
+              "ViewState": "AgIAACIAAAAAzMzMzEwRwDgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:09:31.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241111133211_tabelamensagem.cs",
+              "DocumentMoniker": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.DAL\\Migrations\\20241111133211_tabelamensagem.cs",
+              "RelativeDocumentMoniker": "BinasJc.DAL\\Migrations\\20241111133211_tabelamensagem.cs",
+              "ToolTip": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.DAL\\Migrations\\20241111133211_tabelamensagem.cs",
+              "RelativeToolTip": "BinasJc.DAL\\Migrations\\20241111133211_tabelamensagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:32:11.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BinasJc.api",
+              "DocumentMoniker": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.api\\BinasJc.api.csproj",
+              "RelativeDocumentMoniker": "BinasJc.api\\BinasJc.api.csproj",
+              "ToolTip": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.api\\BinasJc.api.csproj",
+              "RelativeToolTip": "BinasJc.api\\BinasJc.api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T13:24:30.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.api\\Program.cs",
+              "RelativeDocumentMoniker": "BinasJc.api\\Program.cs",
+              "ToolTip": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.api\\Program.cs",
+              "RelativeToolTip": "BinasJc.api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:22:44.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "BinasJc.Model\\Usuario.cs",
+              "ToolTip": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.Model\\Usuario.cs",
+              "RelativeToolTip": "BinasJc.Model\\Usuario.cs",
+              "ViewState": "AgIAAAQAAACAzczMzIwjwA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:15:33.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BinasJc.api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BinasJc.api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:15:07.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BinasJcContext.cs",
+              "DocumentMoniker": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.DAL\\Context\\BinasJcContext.cs",
+              "RelativeDocumentMoniker": "BinasJc.DAL\\Context\\BinasJcContext.cs",
+              "ToolTip": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.DAL\\Context\\BinasJcContext.cs",
+              "RelativeToolTip": "BinasJc.DAL\\Context\\BinasJcContext.cs",
+              "ViewState": "AgIAABEAAAAANDMzM7McwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:24:46.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mensagem.cs",
+              "DocumentMoniker": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.Model\\Mensagem.cs",
+              "RelativeDocumentMoniker": "BinasJc.Model\\Mensagem.cs",
+              "ToolTip": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.Model\\Mensagem.cs",
+              "RelativeToolTip": "BinasJc.Model\\Mensagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:10:20.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BicicletaController.cs",
+              "DocumentMoniker": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.api\\Controllers\\BicicletaController.cs",
+              "RelativeDocumentMoniker": "BinasJc.api\\Controllers\\BicicletaController.cs",
+              "ToolTip": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.api\\Controllers\\BicicletaController.cs",
+              "RelativeToolTip": "BinasJc.api\\Controllers\\BicicletaController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAowE8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:05:05.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PontoController.cs",
+              "DocumentMoniker": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.api\\Controllers\\PontoController.cs",
+              "RelativeDocumentMoniker": "BinasJc.api\\Controllers\\PontoController.cs",
+              "ToolTip": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.api\\Controllers\\PontoController.cs",
+              "RelativeToolTip": "BinasJc.api\\Controllers\\PontoController.cs",
+              "ViewState": "AgIAAAwAAAAALzMzM7MQwFQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:04:29.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.api\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "BinasJc.api\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.api\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "BinasJc.api\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAACMAAADgzMzMzKw5wFMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:03:18.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReservaController.cs",
+              "DocumentMoniker": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.api\\Controllers\\ReservaController.cs",
+              "RelativeDocumentMoniker": "BinasJc.api\\Controllers\\ReservaController.cs",
+              "ToolTip": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.api\\Controllers\\ReservaController.cs",
+              "RelativeToolTip": "BinasJc.api\\Controllers\\ReservaController.cs",
+              "ViewState": "AgIAADYAAAAg/////78qwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:02:28.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StationsController.cs",
+              "DocumentMoniker": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.api\\Controllers\\StationsController.cs",
+              "RelativeDocumentMoniker": "BinasJc.api\\Controllers\\StationsController.cs",
+              "ToolTip": "C:\\Users\\graci\\source\\repos\\BinasJc.api\\BinasJc.api\\Controllers\\StationsController.cs",
+              "RelativeToolTip": "BinasJc.api\\Controllers\\StationsController.cs",
+              "ViewState": "AgIAAFgAAAAAeWZmZmb6v18AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:39:08.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
